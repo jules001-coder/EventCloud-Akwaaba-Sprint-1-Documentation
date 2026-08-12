@@ -1,4 +1,4 @@
-# EventCloud (Akwaaba) — Sprint 1 Documentation(Inital Dev Stage)
+# EventCloud (Akwaaba) — Sprint 1 Documentation (Initial Dev Stage)
 
 ![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white)
@@ -20,6 +20,7 @@ A cloud-native event management platform — **Akwaaba** — built on AWS. This 
 - [Architecture](#architecture)
 - [AWS Services](#aws-services)
 - [What Was Delivered This Sprint](#what-was-delivered-this-sprint)
+- [Screenshots](#screenshots)
 - [Core Features (Planned)](#core-features-planned)
 - [Development](#development)
 - [Running the App](#running-the-app)
@@ -186,6 +187,45 @@ Pages built and delivered this sprint:
 | Dummy Dashboard | Overview screen for event managers with placeholder data |
 | Public Events Page | Attendees can browse available public events and register |
 | Invitation-Only Events Page | Invited attendees confirm availability before a ticket is issued |
+
+---
+
+## Screenshots
+
+The following screenshots show the pages designed and developed during Sprint 1.
+
+### Login Page
+Sign-in screen for event managers to access the Akwaaba portal.
+
+![Login Page](https://raw.githubusercontent.com/jules001-coder/EventCloud-Akwaaba-Sprint-1-Documentation/main/images/login-page.png)
+
+---
+
+### Dashboard
+Overview screen for event managers showing event activity, participant counts, and event status breakdown.
+
+![Dashboard](https://raw.githubusercontent.com/jules001-coder/EventCloud-Akwaaba-Sprint-1-Documentation/main/images/dashboard.png)
+
+---
+
+### Events List
+A table view of all events with submission counts, registration numbers, status badges, and type — with search and filter controls.
+
+![Events List](https://raw.githubusercontent.com/jules001-coder/EventCloud-Akwaaba-Sprint-1-Documentation/main/images/events.png)
+
+---
+
+### Add Event
+Form for creating a new event — covering event name, description, date, time, location, capacity, status, and event type.
+
+![Add Event](https://raw.githubusercontent.com/jules001-coder/EventCloud-Akwaaba-Sprint-1-Documentation/main/images/add-event.png)
+
+---
+
+### Participants List
+A list of all participants who have registered or been invited to events, showing their RSVP status and registration date.
+
+![Participants](https://raw.githubusercontent.com/jules001-coder/EventCloud-Akwaaba-Sprint-1-Documentation/main/images/participants.png)
 
 ---
 
